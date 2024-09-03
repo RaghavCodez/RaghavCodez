@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaghavCodez
 - 👀 I’m interested in making tools and softwares that make work easy for developers
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on any open source Rust project
+- 🌱 I’m currently learning Java and planning to learn Kotlin also
+- 💞️ I’m looking to collaborate on any open source project
 - 📫 If you want to contact then you can email me at `raghavcodez@gmail.com`
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: My mom calls me a dog (puppy)
